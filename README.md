@@ -1,6 +1,8 @@
 # Acquisition-scanner
 Script to find acquisitions of a company.
 
+![](icon.gif)
+
 ## INSTALLATION
 
 ```bash

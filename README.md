@@ -5,10 +5,12 @@ Script to find acquisitions of a company.
 
 ## INSTALLATION
 
+Open a shell terminal, and run the below commands, 
+
 ```bash
-$ git clone https://github.com/N3H4L/Acquisition-Scanner.git
-$ cd Acquisition-Scanner
-$ pip install -r requirements.txt
+git clone https://github.com/N3H4L/Acquisition-Scanner.git
+cd Acquisition-Scanner
+pip install -r requirements.txt
 ```
 
 ## USAGE
@@ -62,4 +64,5 @@ Source3
 The Eye Tribe                                                                                                                                                 FacioMetrics                                                                                                                                                  crowdtangle 
 ```
 
+Please feel free to play with the script and make it better
 HAPPY HACKING :)

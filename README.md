@@ -15,7 +15,8 @@ $ pip install -r requirements.txt
 
 ```bash
 (env) n3hal@LAPTOP-JVF3OKHC:~/Documents/Acquisition-Scanner$ python acquisition-scanner.py -o facebook                                                        
------------------------                                                                                                                                        ACQUISITION SCANNER                                                                                                                                           
+-----------------------
+ACQUISITION SCANNER                                                                                                                                           
 Coded By: @n3hal_                                                                                                                                            
 -----------------------                                                                                                                                       
 Kustomer                                                                                                                                                      
